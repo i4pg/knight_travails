@@ -22,5 +22,4 @@ This program took me almost a week since i had other things on my life and graph
 [3, 6]
 [4, 4]
 [5, 6]
-[7, 7]
-
+[7, 7]```
