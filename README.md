@@ -14,7 +14,8 @@ This program took me almost a week since i had other things on my life and graph
 
 ### Sample usage
 
-```Knight.new([0, 0], [7, 7])
+```
+Knight.new([0, 0], [7, 7])
 "you made it in 6 moves! Here's your path"
 [0, 0]
 [1, 2]
@@ -22,4 +23,4 @@ This program took me almost a week since i had other things on my life and graph
 [3, 6]
 [4, 4]
 [5, 6]
-[7, 7]```
+[7, 7]
